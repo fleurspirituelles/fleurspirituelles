@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>¡Hola, amigos!</h1>
-  <p><img width="15%" src="./images/profile-sticker.png"></p>
+  <p><a href="https://www.flaticon.com/stickers-pack/women-16"><img width="15%" src="./images/profile-sticker.png"></a></p>
   
   <a href="mailto:talitha.vieira@aluno.ifsp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/taeliyes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
