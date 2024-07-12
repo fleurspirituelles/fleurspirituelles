@@ -1,6 +1,7 @@
 <div align="center">
 
   <h1>¡Hola, amigos!</h1>
+  <p><img width="15%" src="./images/profile-sticker.png"></p>
   
   <a href="mailto:talitha.vieira@aluno.ifsp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/taeliyes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -8,7 +9,7 @@
   
   <p>I'm Talitha, a technology professional dedicated to achieving excellence in software development.</p>
   
-  <p>I'm a student at the Federal Institute of Education, Science and Technology of São Paulo, working towards a degree in Systems Analysis and Development.</p>
+  <p>I'm majoring in Systems Analysis and Development at the Federal Institute of Education, Science and Technology of São Paulo.</p>
   
   <p>I have a solid foundation in core web technologies like CSS, HTML, JavaScript, and TypeScript.</p>
   
